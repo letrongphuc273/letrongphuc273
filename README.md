@@ -25,7 +25,7 @@ Mình là sinh viên ngành Hệ thống thông tin, quan tâm đến phát tri�
 - [Website bán điện thoại bằng PHP](https://github.com/letrongphuc273/Website-BanDienThoai-PHP)
 - [Website bán linh kiện máy tính](https://github.com/letrongphuc273/Website-BanLinhKienMayTinh)
 - [Hệ thống đặt xe Cab Booking](https://github.com/letrongphuc273/Cab-Booking-System)
-- **Hệ thống đặt phòng khách sạn (Hotel Booking System):** Dự án tập trung vào chức năng đặt phòng và quản lý đặt phòng khách sạn.
+- [Hệ thống đặt phòng khách sạn](https://github.com/letrongphuc273/HeThong-DatPhongKhachSan)
 
 ## 🎯 Mục tiêu
 
